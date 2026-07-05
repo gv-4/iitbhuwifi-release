@@ -1,10 +1,10 @@
-# IIT(BHU) Wi-Fi Auto Login
+# IITBHU WiFI Auto Login
 
-An Android app that automatically logs you into the **IIT(BHU) Varanasi Wi-Fi** and keeps your session active in the background.
+An Android app that automatically logs you into the **IITBHU Varanasi WiFI** and keeps your session active in the background.
 
 ## ✨ Features
 
-- 🔐 Automatic login using your IIT(BHU) LDAP credentials
+- 🔐 Automatic login using your IITBHU credentials
 - 📶 Detects the captive portal automatically
 - 🌐 Verifies internet connectivity after login
 - 🔄 Keeps the session alive with automatic re-login
@@ -19,7 +19,7 @@ An Android app that automatically logs you into the **IIT(BHU) Varanasi Wi-Fi** 
 Download the latest APK from the **Releases** section.
 
 ➡ **Latest Release:**  
-
+https://github.com/gv-4/iitbhuwifi-release/releases/tag/v3.4-stable
 
 ---
 
@@ -28,10 +28,10 @@ Download the latest APK from the **Releases** section.
 1. Download the latest APK.
 2. Install the application.
 3. Allow installation from unknown sources if prompted.
-4. Enter your IIT(BHU) LDAP credentials.
+4. Enter your IITBHU LDAP credentials.
 5. Enable Auto Login.
 
-That's it! The app will automatically handle future Wi-Fi logins.
+That's it! The app will automatically handle future WiFI logins.
 
 ---
 
@@ -52,9 +52,9 @@ Your settings and credentials will be preserved.
 
 ## ⚠️ Disclaimer
 
-This is an independent utility for IIT(BHU) students and staff.
+This is an independent utility for IITBHU students and staff.
 
-This project is **not affiliated with or endorsed by IIT (BHU), Varanasi, or Fortinet**.
+This project is **not affiliated with or endorsed by IIT BHU, Varanasi, or Fortinet**.
 
 ---
 
