@@ -1,6 +1,6 @@
-# IITBHU WiFI Auto Login
+# IITBHU WiFi Auto Login
 
-An Android app that automatically logs you into the **IITBHU Varanasi WiFI** and keeps your session active in the background.
+An Android app that automatically logs you into the **IITBHU Varanasi WiFi** and keeps your session active in the background.
 
 ## ✨ Features
 
@@ -19,7 +19,7 @@ An Android app that automatically logs you into the **IITBHU Varanasi WiFI** and
 Download the latest APK from the **Releases** section.
 
 ➡ **Latest Release:**  
-https://github.com/gv-4/iitbhuwifi-release/releases/tag/v3.4-stable
+https://github.com/gv-4/iitbhuWiFi-release/releases/tag/v3.4-stable
 
 ---
 
@@ -31,7 +31,7 @@ https://github.com/gv-4/iitbhuwifi-release/releases/tag/v3.4-stable
 4. Enter your IITBHU LDAP credentials.
 5. Enable Auto Login.
 
-That's it! The app will automatically handle future WiFI logins.
+That's it! The app will automatically handle future WiFi logins.
 
 ---
 
