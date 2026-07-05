@@ -19,7 +19,7 @@ An Android app that automatically logs you into the **IITBHU Varanasi WiFi** and
 Download the latest APK from the **Releases** section.
 
 ➡ **Latest Release:**  
-https://github.com/gv-4/iitbhuWiFi-release/releases/tag/v3.4-stable
+https://github.com/gv-4/iitbhuwifi-release/releases/tag/v3.4-stable
 
 ---
 
