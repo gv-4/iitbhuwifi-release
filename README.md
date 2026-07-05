@@ -4,7 +4,7 @@ An Android app that automatically logs you into the **IITBHU Varanasi WiFi** and
 
 ## ✨ Features
 
-- 🔐 Automatic login using your IITBHU credentials
+- 🔐 Automatic login using your IIT(BHU) credentials
 - 📶 Detects the captive portal automatically
 - 🌐 Verifies internet connectivity after login
 - 🔄 Keeps the session alive with automatic re-login
